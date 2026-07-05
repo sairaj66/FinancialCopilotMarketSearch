@@ -67,10 +67,19 @@ agentic_financial_copilot/
 └── streamlit_app.py
 ```
 ---
+Architecture
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/d11865b8-7b52-441a-a768-b832007a3dd3" />
+
+
+---
 ### Execution
 <img width="1586" height="840" alt="image" src="https://github.com/user-attachments/assets/c741a91a-195d-443e-8b30-acf2f489b705" />
 
+Has the conversation History
+<img width="1577" height="813" alt="image" src="https://github.com/user-attachments/assets/40ca3131-41ab-43f9-8589-b88fb0d3e665" />
 
+Sample results 
+<img width="1572" height="803" alt="image" src="https://github.com/user-attachments/assets/b6b9a4f6-defc-4010-92c4-467436b5e5c0" />
 
 ---
 
