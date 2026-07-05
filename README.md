@@ -66,6 +66,11 @@ agentic_financial_copilot/
 ├── requirements.txt
 └── streamlit_app.py
 ```
+---
+### Execution
+<img width="1586" height="840" alt="image" src="https://github.com/user-attachments/assets/c741a91a-195d-443e-8b30-acf2f489b705" />
+
+
 
 ---
 
