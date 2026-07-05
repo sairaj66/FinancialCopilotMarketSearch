@@ -1,0 +1,15 @@
+llm:
+  openai:
+    provider: "openai"
+    model_name: "gpt-4o-mini"
+    temperature: 0.1
+  groq:
+    provider: "groq"
+    model_name: "llama-3.3-70b-versatile"
+    temperature: 0.1
+
+rag:
+  docs_path: "data/financial_docs"
+  vector_store_path: "data/vector_store"
+  chunk_size: 1200
+  chunk_overlap: 150

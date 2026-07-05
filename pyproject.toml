@@ -1,0 +1,27 @@
+[project]
+name = "agentic-financial-copilot"
+version = "0.1.0"
+description = "Agentic Financial Information Copilot using FastAPI, Streamlit, LangGraph, and finance tools"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.115.0",
+    "uvicorn>=0.30.0",
+    "streamlit>=1.36.0",
+    "requests>=2.32.0",
+    "python-dotenv>=1.0.1",
+    "pydantic>=2.7.0",
+    "pyyaml>=6.0.2",
+    "langchain>=0.2.11",
+    "langchain-core>=0.2.29",
+    "langchain-community>=0.2.10",
+    "langchain-openai>=0.1.20",
+    "langchain-groq>=0.1.9",
+    "langgraph>=0.2.14",
+    "yfinance>=0.2.41",
+    "pandas>=2.2.2",
+    "numpy>=1.26.4",
+    "faiss-cpu>=1.8.0.post1",
+    "pypdf>=4.3.1",
+    "tavily-python>=0.5.0"
+]
